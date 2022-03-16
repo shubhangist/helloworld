@@ -11,5 +11,6 @@ To run
 ------
     java -cp target/helloworld-1.0.jar com.coveros.demo.helloworld.HelloWorld
 
-This is test page
+This is test page for java
 16/march/2022
+
